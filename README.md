@@ -1,5 +1,7 @@
 # Enrique-Ruiz
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00F706&background=102306B2&center=true&vCenter=true&width=435&lines=Hey+!+;It's+Enrique+!" alt="Typing SVG" /></a>
+<h2>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00F706&background=102306B2&center=true&vCenter=true&width=435&lines=Hey+!+;It's+Enrique+!" alt="Typing SVG" /></a>
+</h2>
 Hey ! My name is Ruiz Enrique, i'm a french students who like music, coding and video games.
 You can see what I'm working on right now with my repositories 
 <h3>
